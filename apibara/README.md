@@ -1,0 +1,1 @@
+apibara run ./apibara/indexer.ts -A {apikey}
